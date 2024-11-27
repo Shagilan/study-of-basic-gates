@@ -83,7 +83,8 @@ endmodule
 ```
  
 **Logic symbol & Truthtable**
-![Screenshot 2024-11-22 114439](https://github.com/user-attachments/assets/979459a9-8d81-4012-b5f3-bcf501d0616a)
+![WhatsApp Image 2024-11-27 at 1 26 31 PM (1)](https://github.com/user-attachments/assets/fc4514eb-62bd-4271-a200-874fe8965760)
+
 
 **RTL realization Output:** 
 ![Screenshot (7)](https://github.com/user-attachments/assets/3f2bcbe5-367b-448a-ab8c-21b1070a85cf)
